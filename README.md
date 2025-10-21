@@ -183,9 +183,6 @@ FinancialPlanner/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -193,11 +190,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Charts powered by [react-native-chart-kit](https://github.com/indiespirit/react-native-chart-kit)
 - Icons from [Ionicons](https://ionic.io/ionicons)
 - Navigation by [React Navigation](https://reactnavigation.org/)
-
-## 📞 Support
-
-If you have any questions or issues, please open an issue on GitHub or contact the maintainer.
-
----
-
-**Happy budgeting! 💰📊**
